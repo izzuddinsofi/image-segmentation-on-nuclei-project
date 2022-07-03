@@ -24,12 +24,12 @@ The graphs shows a clear sign of model convergence at an excellent convergence p
 ## 4. Results
 The model is evaluated with test data, which is shown in figure below.
 
-![Test Result](img/test_result.PNG)
+![Test Result](img/test_result.png)
 
 Some predictions are also made with the model using some of the test data. The actual output masks and prediction masks are shown in figures below.
 
-![Prediction 1](img/prediction1.png)
-![Prediction 2](img/prediction2.png)
-![Prediction 3](img/prediction3.png)
+![Prediction 1](img/result_1.png)
+![Prediction 2](img/result_2.png)
+![Prediction 3](img/result_3.png)
 
 Overall, the model is capable of segmenting the cell nuclei with high accuracy.
