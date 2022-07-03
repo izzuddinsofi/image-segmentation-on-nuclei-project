@@ -8,7 +8,7 @@ This project is created using Sypder as the main IDE. The main frameworks used i
 
 ## 3. Methodology
 ### 3.1. Data Pipeline
-The data is first loaded and preprocessed, to ease computation. Pictures are used as inputs and image masks are used for labels. The train data is divided into train-validation sets, with a ratio of 80:20 ratio.
+The data is first loaded and preprocessed, to ease computation. Pictures are used as inputs and image masks are used for labels. The train data is divided into train-validation sets, with a ratio of 80:20.
 
 ### 3.2. Model Pipeline
 The U-Net model architecture was used for this project. You can refer to the TensorFlow documentation for further details. In summary, the model consist of two components, the downward stack, which serves as the feature extractor, and upward stack, which helps to produce pixel-wise output. The model structure is shown in the figure below.
