@@ -1,7 +1,7 @@
 # Cell Nuclei Segmentation using U-Net
 
 ## 1. Summary
-The aim of this project is to create an accurate deep learning model to detect and segment cell nuclei from biomedical images, allowing cures to be made faster (researchers can understand the underlying biological processes of each cell). The model is trained with  dataset from [2018 Data Science Bowl dataset](https://www.kaggle.com/c/data-science-bowl-2018)
+The aim of this project is to create an accurate deep learning model to detect and segment cell nuclei from biomedical images, allowing cures to be made faster (researchers can understand the underlying biological processes of each cell). The model is trained with  dataset from [2018 Data Science Bowl dataset](https://www.kaggle.com/c/data-science-bowl-2018) .
 
 ## 2. IDE and Framerowk
 This project is created using Sypder as the main IDE. The main frameworks used in this project are Pandas, Scikit-learn and TensorFlow Keras.
