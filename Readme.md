@@ -32,4 +32,4 @@ Some predictions are also made with the model using some of the test data. The a
 ![Prediction 2](img/result_2.png)
 ![Prediction 3](img/result_3.png)
 
-Overall, the model is capable of segmenting the cell nuclei with high accuracy.
+Overall, the model can segment cell nuclei with excellent accuracy.
